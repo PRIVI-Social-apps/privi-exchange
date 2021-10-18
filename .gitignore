@@ -1,0 +1,8 @@
+node_modules
+.env
+package-lock.json
+keys.json
+secret.json
+
+#Truffle files
+build
